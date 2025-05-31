@@ -17,8 +17,6 @@ If you use this code in your research, please cite our work:
 }
 ```
 
-### Keywords
-Performance evaluation, Circuits and systems, Simulation, Urban areas, Standardization, Dynamic scheduling, Graph neural networks, Service discovery, Resource allocation, Graph neural network, Social internet of things, Smart city
 
 ## Features
 
